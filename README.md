@@ -2,7 +2,7 @@
 
 A high-performance, highly available e-commerce infrastructure built on AWS. This project demonstrates the deployment and configuration of a **Magento 2** environment utilizing a **"Varnish Sandwich"** architecture for enterprise-grade caching and SSL offloading.
 
-![Magento 2 Varnish Sandwich Architecture](docs/architecture.svg)
+![Magento 2 Varnish Sandwich Architecture](docs/magento2_varnish_sandwich_enhanced.svg)
 
 ## 🛠️ Tech Stack & Infrastructure
 * **Cloud Provider:** AWS EC2 (Debian 12)
